@@ -1,7 +1,7 @@
 # unsw-cs1531
 A collection of my tutorial slides for COMP1531.
 
-`.pptx`, `.odp`, `pdf` formats as well as Google Slides links are provided :) 
+`.pptx`, `.odp`, `pdf` formats and **Google Slides** links are provided :) 
 
 [Week 1](https://docs.google.com/presentation/d/1mUFbRIAW01sOvLTSRDrTcB8A4erJSO7rs-Ui232sT-g/edit?usp=sharing)
 
