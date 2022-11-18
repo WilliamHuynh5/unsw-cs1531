@@ -18,3 +18,5 @@ A collection of my tutorial slides for COMP1531.
 [Week 8](https://docs.google.com/presentation/d/13QLmfuVo7w5yOftXz5FM_9lPxZkRV0Y07rsEQaYM6lQ/edit?usp=sharing)
 
 [Week 9](https://docs.google.com/presentation/d/1Qul-rtEWwfeP5d3iLIcddKV18CxDf5e9Qt9eLarCzDE/edit?usp=sharing)
+
+[Week 10](https://docs.google.com/presentation/d/1KdC1632ERp8w-ciJS6kmXE4N8qbF6BOQu6T4axG3IcE/edit?usp=sharing)
